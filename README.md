@@ -1,6 +1,6 @@
-#Shopping Receipt
+# Shopping Receipt
 
-##Assumption:
+## Assumption:
 Suppose category should be registered in sku data since the data import process (before public to sell), otherwise it is not possible appearing in the shopping cart. 
 So I assume that this information is store in database already.
 Given that the requirement is: inputs don't contain any information of categories, 
